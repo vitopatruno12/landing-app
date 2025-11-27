@@ -38,7 +38,7 @@ function App(){
     <div className="pricing-cards">
       <div className="pricing-card">
         <h3>Starter</h3>
-        <p className="price">£ 199 </p>
+        <p className="price">£ 499 </p>
         <p>App base Android + IOS</p>
         <ul>
           <li>Funzionalita base</li>
@@ -50,7 +50,7 @@ function App(){
       </div>
        <div className="pricing-card">
         <h3> Business</h3>
-        <p className="price">£499</p>
+        <p className="price">£899</p>
         <p> App completa con Funzionalità extra</p>
         <ul>
           <li> Integrazioni pagamenti</li>
